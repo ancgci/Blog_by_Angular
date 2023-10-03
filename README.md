@@ -1,27 +1,49 @@
-# AngularBlog
+# Desenvolvimento de site com Angular
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.1.2.
+Projto didático desenvolvido na prática da utilização do Framework Angular com tutoria [Felipe Silva](https://github.com/felipeAguiarCode) durante o bootCamp Santander DIO FullStack. 
 
-## Development server
+Esse projeto fora desenvolvido com [Angular CLI](https://github.com/angular/angular-cli) version 14.1.2. 
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+## Introdução
 
-## Code scaffolding
+Esta é a documentação para o projeto. Aqui estão as instruções para configurar, construir e executar o projeto.
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+## Abrindo a página Inicial
 
-## Build
+Para iniciar o servidor de desenvolvimento, execute o seguinte comando:
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+```bash
+ng serve
 
-## Running unit tests
+Em seguida, acesse a aplicação no navegador usando o seguinte URL:
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+http://localhost:4200/
 
-## Running end-to-end tests
+A aplicação será automaticamente recarregada se você fizer qualquer alteração nos arquivos de origem.
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+## Geração de Código
 
-## Further help
+Para gerar um novo componente, utilize o seguinte comando:
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+```ng generate component nome-do-componente
+
+Você também pode usar este comando para gerar diretivas, pipes, serviços, classes, guards, interfaces, enumerações e módulos.
+
+
+## Ajuda Adicional
+Para obter mais informações e comandos disponíveis no Angular CLI, utilize o seguinte comando:
+
+bash
+Copy code
+ng help
+
+Você também pode consultar a Visão Geral e Referência de Comandos do Angular CLI para obter mais detalhes.
+
+## Imagens
+
+![1](https://github.com/ancgci/Teste-Funcional-Selenium/blob/main/imagens/1.png)
+![2](https://github.com/ancgci/Teste-Funcional-Selenium/blob/main/imagens/2.png)
+
+## License
+
+Este projeto é distribuído sob a licença MIT.
