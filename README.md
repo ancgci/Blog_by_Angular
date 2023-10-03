@@ -32,8 +32,8 @@ Você também pode usar este comando para gerar diretivas, pipes, serviços, cla
 
 ## Imagens
 
-![1](https://github.com/ancgci/Teste-Funcional-Selenium/blob/main/imagens/1.png)
-![2](https://github.com/ancgci/Teste-Funcional-Selenium/blob/main/imagens/2.png)
+![1](https://github.com/ancgci/Blog_by_Angular/blob/main/imagens/1.png)
+![2](https://github.com/ancgci/Blog_by_Angular/blob/main/imagens/2.png)
 
 ## License
 
