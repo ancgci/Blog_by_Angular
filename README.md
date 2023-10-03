@@ -1,6 +1,6 @@
 # Desenvolvimento de site com Angular
 
-Projto didático desenvolvido na prática da utilização do Framework Angular com tutoria [Felipe Silva](https://github.com/felipeAguiarCode) durante o bootCamp Santander DIO FullStack. 
+Projeto didático desenvolvido na prática da utilização do Framework Angular com tutoria [Felipe Silva](https://github.com/felipeAguiarCode) durante o bootCamp Santander DIO FullStack. 
 
 Esse projeto fora desenvolvido com [Angular CLI](https://github.com/angular/angular-cli) version 14.1.2. 
 
