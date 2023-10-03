@@ -12,9 +12,8 @@ Esta é a documentação para o projeto. Aqui estão as instruções para config
 
 Para iniciar o servidor de desenvolvimento, execute o seguinte comando:
 
-´´´bash
-ng serve 
-´´´
+- ng serve 
+
 
 Em seguida, acesse a aplicação no navegador usando o seguinte URL:
 
